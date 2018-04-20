@@ -1,2 +1,2 @@
 # 排名
-![img](https://imgur.com/a/43ETiUC)
+![https://imgur.com/a/43ETiUC]
