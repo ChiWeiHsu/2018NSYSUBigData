@@ -44,7 +44,7 @@ data.head(2)
 
 
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -182,7 +182,7 @@ data.describe()
 
 
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -433,7 +433,7 @@ data.head()
 
 
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -749,7 +749,7 @@ result
 
 
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -871,7 +871,7 @@ result.head(10)
 
 
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -966,7 +966,7 @@ pre_2016.head()
 
 
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1032,7 +1032,7 @@ pre_2016.head()
 
 
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
